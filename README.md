@@ -3,4 +3,5 @@
 :man_cook:
 
 * Strogonoff
-* Peixes
+* Pave
+
