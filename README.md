@@ -4,4 +4,5 @@
 
 * Strogonoff
 * Pave
+* Bolo de cenoura :carrot:
 
